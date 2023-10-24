@@ -1,0 +1,20 @@
+{
+  "name": "semanatec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcoCM1101/semanatec-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcoCM1101/semanatec-js/issues"
+  },
+  "homepage": "https://github.com/MarcoCM1101/semanatec-js#readme"
+}
