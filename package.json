@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/MarcoCM1101/semanatec-js/issues"
   },
-  "homepage": "https://github.com/MarcoCM1101/semanatec-js#readme"
+  "homepage": "https://github.com/MarcoCM1101/semanatec-js#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
 }
